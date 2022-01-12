@@ -23,6 +23,9 @@ flutter:
 
   uses-material-design: true
 
+  assets:
+  - assets/images/waiting.png
+
   fonts:
     - family: OpenSans
       fonts:
